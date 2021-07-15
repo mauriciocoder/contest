@@ -4,7 +4,6 @@ from functools import reduce
 
 def get_orange_fraction(drinks_qty: int, fractions: tuple) -> float:
     """get the orange fraction
-
     Args:
         drinks_qty (int): [description]
         fractions (tuple): [description]
