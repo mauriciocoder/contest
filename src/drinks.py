@@ -11,7 +11,7 @@ def get_orange_fraction(drinks_qty: int, fractions: tuple) -> float:
     Returns:
         float: [description]
     """
-    print(test)
+
     total_fractions: float = reduce(
         lambda x, y: x + y, map(lambda x: x / 100, fractions)
     )
