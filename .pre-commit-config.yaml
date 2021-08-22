@@ -17,3 +17,4 @@ repos:
     rev: 8f9b4931b9a28896fb43edccb23016a7540f5b82
     hooks:
     -   id: flake8
+        args: ['--ignore=E129,E2,E501']
