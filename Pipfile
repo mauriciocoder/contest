@@ -12,4 +12,7 @@ anytree = "*"
 [dev-packages]
 pytest = "*"
 
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
